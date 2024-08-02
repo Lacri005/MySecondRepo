@@ -1,6 +1,1 @@
-#include <iostream>
-
-int main()
-{
-std::cout<< "this is my second repo!"<<std::endl;
-};
+this is my second repo!
